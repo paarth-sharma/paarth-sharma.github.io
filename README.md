@@ -1,13 +1,12 @@
-# Recreation of Award-winning Bokoko33's Portfolio
+# My Portfolio Website
 
-**[Live demo](https://abigail-bloom-portolio-bokoko33.vercel.app/)**
+## A clumination of one year worth of work
 
-This repo contains code of a recreation of **[Bokoko33's award-winning website](https://bokoko33.me/)**. The original creator asks to please not use this _exact_ idea,
-but feel free to use it as a starting point/inspiration.
+[Live demo](https://abigail-bloom-portolio-bokoko33.vercel.app/)
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
-## Instructions
+## Instructions to use after cloning
 
 ```
 npm install
